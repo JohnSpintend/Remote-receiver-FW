@@ -3,4 +3,4 @@ ubox_v2_rx_iap_20230523: Add third part remote PPM support, add auto shut off wh
 With PPM signal, To turn on head light by hold the brake signal more than 3 seconds, once turned on, cann't turn off, untill shut off the Ubox.
 Brake light will turn on every time brake PPM singal being applied.
 To upgrade firmware, you need a spintend U-remote.
-Upgrading guide is here: http://175.178.7.90/index.php?title=How_to_upgrade_the_firmware_of_the_receiver
+Upgrading guide is here: http://175.178.7.90/index.php?title=How_to_upgrade_the_firmware_of_the_receiver%3F
