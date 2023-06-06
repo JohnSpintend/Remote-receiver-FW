@@ -1,4 +1,4 @@
 Change log
-ubox_v2_rx_iap_20230523: Add third part remote PPM support, add auto shut off when the PPM signal was idle more than 60 minutes. And both PPMA PPMB are can control the head light and brake light.
+ubox_v2_rx_iap_20230523: Add third part remote PPM support, add auto shut off when the PPM signal was idle more than 60 minutes. And both PPMA PPMB are able to control the head light and brake light.
 With PPM signal, To turn on head light by hold the brake signal more than 3 seconds, once turned on, cann't turn off, untill shut off the Ubox.
-Brake light will turn on ever time brake PPM singal being applied.
+Brake light will turn on every time brake PPM singal being applied.
