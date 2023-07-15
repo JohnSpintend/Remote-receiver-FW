@@ -24,7 +24,7 @@ Click 10times ---- Auto shutoff after 60minutes
 The idle signal range is 1425----1575 microsecond.
 
 When the auto shutdown is activated and idle state continued more than 30 seconds, the LED of the power button will start to blinking, this will be helpful for diagnosis.
-
+http://175.178.7.90/index.php?title=Ubox_V2_75V_manual#The auto shutdown with external PPM signal
 -------------
 ubox_v2_rx_iap_20230523: Add third part remote PPM support, add auto shut off when the PPM signal was idle more than 60 minutes. And both PPMA PPMB are able to control the head light and brake light.
 With PPM signal, To turn on head light by hold the brake signal more than 3 seconds, once turned on, cann't turn off, untill shut off the Ubox.
