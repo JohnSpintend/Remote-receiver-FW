@@ -1,5 +1,9 @@
 Change log
 
+ubox_v2_rx_iap_20230626.binpak:
+
+Improved the auto shut off function for the external PPM signal.
+
 The internal receiver will monitoring the ppm signal to power off when both ppm signals are being idle or loss.
 
 By click the button to configure the auto shutoff time:
