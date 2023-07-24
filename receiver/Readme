@@ -13,13 +13,13 @@ Click button to config auto shutoff
 
 Click 10times ---- Disable auto shutoff
 
-Click 10times ---- Auto shutoff after 5minutes
+Click 11times ---- Auto shutoff after 5minutes
 
-Click 10times ---- Auto shutoff after 15minutes
+Click 12times ---- Auto shutoff after 15minutes
 
-Click 10times ---- Auto shutoff after 30minutes
+Click 13times ---- Auto shutoff after 30minutes
 
-Click 10times ---- Auto shutoff after 60minutes
+Click 14times ---- Auto shutoff after 60minutes
 
 The idle signal range is 1425----1575 microsecond.
 
